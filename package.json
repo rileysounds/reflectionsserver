@@ -1,0 +1,22 @@
+{
+  "name": "rfmserver",
+  "version": "1.0.0",
+  "description": "Server for ReflectionsFM",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rileysounds/reflectionsserver.git"
+  },
+  "author": "Riley Wells",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rileysounds/reflectionsserver/issues"
+  },
+  "homepage": "https://github.com/rileysounds/reflectionsserver#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
